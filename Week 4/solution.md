@@ -34,6 +34,7 @@
 3. On GitHub → Open PR → Request review → Merge to `main`.
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ee998c88-0b2c-4815-ac51-3e672c84119c" />
+
 ---
 
 ### **3️⃣ Task 2 – Reset & Revert**
