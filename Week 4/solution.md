@@ -206,7 +206,6 @@
 
    * Commit directly to main or very short-lived branches
 
-📌 **Document in solution.md** pros & cons of each strategy.
 
 ---
 
