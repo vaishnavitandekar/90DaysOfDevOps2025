@@ -81,10 +81,9 @@
    git push origin main
    ```
 
-<<<<<<< HEAD
-=======
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1a97fac1-a747-4edb-babc-b1518d153e6d" />
->>>>>>> ddf180b20f1cb52760a44bfb2b622f6d58b52319
+
 
 ---
 
@@ -111,11 +110,10 @@
    git stash pop  # or git stash apply
    ```
 
-<<<<<<< HEAD
-=======
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1a97fac1-a747-4edb-babc-b1518d153e6d" />
 
->>>>>>> ddf180b20f1cb52760a44bfb2b622f6d58b52319
+
 
 ---
 
@@ -148,12 +146,11 @@
    git cherry-pick <commit-hash>
    ```
 
-<<<<<<< HEAD
-=======
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a9c7800b-2dd3-4545-a87d-96cd6135f07a" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8df4d44f-39b6-456a-8b72-4d967c2fc6f5" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7c175850-5eee-465e-a7ef-a6aabfdf08e3" />
->>>>>>> ddf180b20f1cb52760a44bfb2b622f6d58b52319
+
 
 ---
 
@@ -191,15 +188,10 @@
    git rebase --continue
    ```
 
-<<<<<<< HEAD
-=======
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ff30b35c-bab0-4982-b8ac-45b6d3c22ce7" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/04c9479c-0606-488a-bb45-78f72bab1494" />
->>>>>>> ddf180b20f1cb52760a44bfb2b622f6d58b52319
 
----
-
-### **7️⃣ Task 6 – Branching Strategies Simulation**
+**7️⃣ Task 6 – Branching Strategies Simulation**
 
 **Goal:** Simulate Git Flow, GitHub Flow, and Trunk-Based Development.
 
