@@ -78,7 +78,6 @@
    git push origin main
    ```
 
-📌 **Document in solution.md** differences & when to use each.
 
 ---
 
@@ -105,7 +104,6 @@
    git stash pop  # or git stash apply
    ```
 
-📌 **Document in solution.md** with pop vs apply difference.
 
 ---
 
@@ -138,7 +136,6 @@
    git cherry-pick <commit-hash>
    ```
 
-📌 **Document in solution.md** why cherry-pick is useful for urgent bug fixes.
 
 ---
 
@@ -176,7 +173,6 @@
    git rebase --continue
    ```
 
-📌 **Document in solution.md** merge vs rebase difference.
 
 ---
 
@@ -199,7 +195,6 @@
 
    * Commit directly to main or very short-lived branches
 
-📌 **Document in solution.md** pros & cons of each strategy.
 
 ---
 
